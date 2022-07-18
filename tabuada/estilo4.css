@@ -1,0 +1,44 @@
+body {
+    background: rgba(137, 233, 134, 0.986);
+    font: normal 20pt Arial;
+    text-align: center;
+    
+}
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+section {
+    background: url(bg.png);
+    background-size: cover;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: 350px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.329);
+} 
+mark {
+    background-color: white;
+}
+#botao {
+    font-size: medium;
+}
+#txtn {
+    font-size: medium;
+}
+#seltab {
+    font-size: medium;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+
+
+footer {
+    color: rgb(255, 253, 253);
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+}
